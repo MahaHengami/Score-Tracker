@@ -18,5 +18,5 @@ A simple and interactive web application to track scores. This project allows us
 3. Open the `index.html` file in your browser, or use an extension like Live Server to view it.
 
  What I Learned:
-Through this project, I practiced working with the Document Object Model (DOM), writing clean JavaScript functions, and handling simple state variables.
+Through this project, I practiced working with the Document Object Model (DOM), writing clean JavaScript functions, and handling simple state variables.  
 
