@@ -1,0 +1,54 @@
+.countainer{
+    padding-top: 7px;
+    max-width: 37%;
+    background: rgb(241, 209, 235);
+    margin: auto;
+    border: rgb(53, 54, 53);
+    border-radius: 10%;
+    height:96%
+}
+body{
+    margin-top: 5px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url(bowling.png);
+    background-size: cover;
+    height: 100vh;
+}
+h1{
+    /* font-size: 4px; */
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+h2{
+    font-size: 45px;
+    margin-top: 0px;
+    margin-bottom: 20;
+}
+
+button{
+    border: 10px;
+    border-color: blueviolet;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: aliceblue;
+    border-radius: 5px;
+
+}
+
+#increment-btn{
+    background-color: palevioletred;
+}
+
+#save-btn{
+    background-color: rgb(2, 45, 2);
+}
+
+#save-el{
+    margin-top: 200px;
+}
